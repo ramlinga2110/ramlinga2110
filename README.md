@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ramlinga reddy
+- 👋 Hi, I’m @Ramalinga reddy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web
+- 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me ramalinga2110@gmail.com
 
 <!---
