@@ -1,5 +1,5 @@
 About Me:
- I'm currently working on Upwork as Freelancer   <br> I'm looking to collaborate on Web Development <br> I'm looking for help with DSA <br> I'm currently learning Java, Spring Boot<br> Ask me about Web Development <br>
+ I'm currently working on Upwork as Freelancer   <br> I'm looking to collaborate on Web Development <br> I'm looking for help with DSA <br> I'm currently learning Java, Spring Boot<br> Ask me about Web Development <br>
 
 
 ## Socials:
